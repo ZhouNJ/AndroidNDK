@@ -13,3 +13,4 @@ Learn using c++ code in android
   
 task 1:openface draw threshold form an image(use another repository)
   1 download openface c++ source code from https://github.com/aybassiouny/OpenFaceCpp.git
+  2 open sln & run in release mode without debugger(Ctrl+F5)
